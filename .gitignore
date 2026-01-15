@@ -1,0 +1,5 @@
+# Local config (never push real emails)
+configs/server.conf
+
+# Logs
+*.log
